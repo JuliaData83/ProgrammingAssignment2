@@ -4,7 +4,8 @@
 ## it from the cache and returns it
 
 ## the below function creates a matrix object and a vector that
-## is a list of the four functions needed to 
+## is a list of the four functions needed to calculate the inverse
+## and cache the calculation
 
 
 makeCacheMatrix <- function(x = matrix()) {
